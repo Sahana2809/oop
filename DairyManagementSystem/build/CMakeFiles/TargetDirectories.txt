@@ -1,0 +1,3 @@
+/Users/sahanaagadi/Downloads/practice programs/web development/code+files/oop/DairyManagementSystem/build/CMakeFiles/DairyManagementSystem.dir
+/Users/sahanaagadi/Downloads/practice programs/web development/code+files/oop/DairyManagementSystem/build/CMakeFiles/edit_cache.dir
+/Users/sahanaagadi/Downloads/practice programs/web development/code+files/oop/DairyManagementSystem/build/CMakeFiles/rebuild_cache.dir
